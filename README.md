@@ -6,7 +6,7 @@ Forked from https://github.com/chris-jasztrab/onlinecardregistration
 
 Re-purposed for City of Glendale by Giovanni Zaarour, connected to the Library ILS Database via Sierra REST API
 
-*** this is being used by the public at https://register.eglendalelac.org ***
+**this is being used by the public at https://register.eglendalelac.org**
 
 -------
 
